@@ -1,1 +1,6 @@
 joblib
+streamlit
+scikit-learn  # If you're using scikit-learn for the model
+pandas         # If you're using pandas for data manipulation
+numpy          # If you're using numpy for numeric operations
+matplotlib     # Optional: If you're using matplotlib for plotting
